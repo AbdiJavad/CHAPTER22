@@ -11,7 +11,6 @@ public class GCD {
                 break;
             }
         }
-
         return gcd;
     }
     public static void main(String[] args) {
