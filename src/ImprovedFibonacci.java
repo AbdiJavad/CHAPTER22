@@ -10,7 +10,6 @@ public class ImprovedFibonacci {
 
         System.out.println("Fibonacci number at index " + index + " is " + fib(index));
     }
-
     public static long fib(long n) {
         long f0 = 0;
         long f1 = 1;
